@@ -1,0 +1,14 @@
+{
+  "name": "cerebri",
+  "version": "1.0.0",
+  "description": "MS bots framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^1.0.1"
+  }
+}
